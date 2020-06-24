@@ -1,0 +1,4 @@
+condorExecutable.sh
+condorSubmitFile
+logs/
+nohup.out
